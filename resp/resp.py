@@ -3,8 +3,8 @@ import json
 from bs4 import BeautifulSoup
 import pandas as pd
 from tqdm import tqdm
-from resp.apis.serp_api import Serp
-from resp.apis.cnnp import connected_papers
+from apis.serp_api import Serp
+from apis.cnnp import connected_papers
 
 
 
